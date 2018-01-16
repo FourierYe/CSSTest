@@ -3,4 +3,4 @@
 
 #### 效果图如下：
 
-[网页效果图](Project1/images/2.png)
+![网页效果图](Project1/images/2.png)
