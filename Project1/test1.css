@@ -33,3 +33,91 @@
   margin-top: 80px;
   float: left;
 }
+.bodycontent{
+  width: 80%;
+  margin:auto;
+}
+.bodycontent .left{
+  float: left;
+  margin-top: 30px;
+  width: 66%;
+}
+.bodycontent .left p{
+  line-height: 200%;
+}
+.bodycontent .left .menu .top_ul{
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.bodycontent .left .menu .top_ul li{
+  display: inline;
+  margin-right: 30px;
+}
+.bodycontent .left .menu .after_ul{
+  margin-top: 30px;
+}
+.bodycontent .left .menu .after_ul li{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid rgb(206, 201, 201);
+  border-top: 1px solid rgb(206, 201, 201);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+.after_ul li a{
+  text-decoration: none;
+  color: black;
+}
+.after_ul{
+  list-style-type: none;
+}
+.bodycontent .right{
+  width: 30%;
+  float: left;
+}
+.bodycontent .right .teacher{
+  margin-left: 100px;
+  float: right;
+  margin-top: 30px;
+}
+.teacher img{
+  margin-top: 10px;
+  width: 80px;
+  height: 80px;
+  border-radius:50%
+}
+.teacher .introduction{
+  margin-top: 30px;
+  margin-left: 20px;
+  float: right;
+}
+.teacher .info{
+  margin: 10px;
+  padding: 10px;
+  background-color: beige;
+}
+.teacher .info p{
+  line-height: 180%;
+}
+.bottom{
+  width: 100%;
+  height: 120px;
+  background-color: rgb(22, 20, 20);
+  clear: both;
+}
+.bottom ul{
+  margin-left: 260px;
+  margin-top: 80px;
+  width: 80%;
+}
+.bottom ul li{
+  margin-top: 30px;
+  float: left;
+  margin-left: 30px;
+  list-style-type: none;
+}
+.bottom ul li a{
+  text-decoration: none;
+  color: aliceblue;
+}
